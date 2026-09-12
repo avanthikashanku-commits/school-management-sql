@@ -1,0 +1,33 @@
+course_id,subject,grade_level,teacher_name,credits
+1,Physical Education,10,Ms. Verma,3
+2,Economics,11,Mr. Nair,4
+3,Mathematics,10,Mr. Das,2
+4,Mathematics,8,Mrs. Gupta,4
+5,Mathematics,12,Mrs. Gupta,4
+6,Music,7,Ms. Fernandes,2
+7,Chemistry,12,Mr. Thomas,4
+8,Music,8,Ms. Rao,4
+9,Physical Education,8,Ms. Rao,4
+10,Physics,9,Mr. Das,4
+11,Physics,10,Mr. Thomas,2
+12,Mathematics,11,Ms. Sen,3
+13,Physics,7,Mrs. Iyer,4
+14,Music,12,Mr. Das,3
+15,Mathematics,6,Mrs. Pillai,3
+16,Physics,12,Ms. Rao,2
+17,Computer Science,9,Mr. Sharma,3
+18,Geography,11,Ms. Verma,2
+19,Art,10,Mr. Thomas,4
+20,English,12,Ms. Sen,3
+21,Biology,12,Mr. Thomas,3
+22,Music,6,Mrs. Iyer,2
+23,History,9,Ms. Sen,3
+24,Computer Science,6,Mrs. Iyer,3
+25,Music,9,Mr. Thomas,4
+26,Physical Education,6,Mrs. Pillai,2
+27,Art,12,Mr. Thomas,3
+28,Physical Education,9,Ms. Fernandes,3
+29,Art,8,Ms. Sen,3
+30,Physics,11,Mr. Khan,2
+31,Art,6,Mrs. Iyer,3
+32,Mathematics,9,Mrs. Gupta,4
